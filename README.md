@@ -115,8 +115,8 @@ I am currently working on:
 
 ## 🔗 Connect
 
-[Personal Website](https://jiamao-liu.com) ·
-[LinkedIn](www.linkedin.com/in/jiamao-liu-6a5b2942b) ·
+[Personal Website](http://jiamao-liu.com) ·
+[LinkedIn](https://www.linkedin.com/in/jiamao-liu-6a5b2942b/))
 
 ---
 

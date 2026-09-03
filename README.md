@@ -69,11 +69,6 @@ A computational framework for decoding spatial enhancer regulation by integratin
 
 `Spatial Omics` `Enhancers` `Epigenomics` `Gene Regulation`
 
-### SpaRegVision
-
-A framework for characterizing spatial enhancer–gene relationships based on global and local regulatory concordance.
-
-`Spatial Regulation` `Enhancer–Gene` `Computational Biology`
 
 ### Spatial Epigenomics Inference
 
@@ -121,10 +116,7 @@ I am currently working on:
 ## 🔗 Connect
 
 [Personal Website](https://jiamao-liu.com) ·
-[GitHub](https://github.com/) ·
-[Google Scholar](#) ·
-[LinkedIn](#) ·
-[ORCID](#)
+[LinkedIn](www.linkedin.com/in/jiamao-liu-6a5b2942b) ·
 
 ---
 
